@@ -18,4 +18,4 @@ As someone who enjoys betting on sports in my spare time, I decided to create a 
 ### Build Status
 - Back-end testing still in progress
 - Continuing to update model
-- Looking at add more advanced analytics
+- Looking to add additional key metrics/statistics
