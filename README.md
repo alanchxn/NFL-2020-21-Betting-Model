@@ -4,10 +4,10 @@ Calculates the expected point margin (or spread in betting terms) of any two NFL
 - SRS (Simple Rating System)
   - A rating that takes into account average point differential and strength of schedule. The rating is denominated in points     above/below average, where zero is average.
 - DVOA (Defense-adjusted Value Over Average)
- - Calculates a team's success based on the down-and-distance of each play during the season, then calculates how much more or less successful each team is compared to the league average.
+  - Calculates a team's success based on the down-and-distance of each play during the season, then calculates how much more or less successful each team is compared to the league average.
 - Differential
- - Point differential throughout the season
+  - Point differential throughout the season
 - ATS%
- - A team's ability to "cover the spread" or win my more than the expected margin as determine by Vegas odds
+  - A team's ability to "cover the spread" or win my more than the expected margin as determine by Vegas odds
 - CG% 
- - A team's ability to win "close games"; games that are decided by 1 possession or less (7 points)
+  - A team's ability to win "close games"; games that are decided by 1 possession or less (7 points)
