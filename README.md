@@ -33,6 +33,9 @@ As someone who enjoys betting on sports in my spare time, I decided to create a 
 ![Screen Shot 2021-01-18 at 1 54 21 AM](https://user-images.githubusercontent.com/44907256/104882159-90593600-5930-11eb-988a-22c3bc2f516b.png)
 - Overview of the Linear Regression Model
 
+![Screen Shot 2021-01-18 at 2 03 32 AM](https://user-images.githubusercontent.com/44907256/104882655-6b18f780-5931-11eb-9259-300650cc169a.png)
+- Bet tracker, including a couple of examples for reference
+
 ![Screen Shot 2021-01-18 at 1 53 45 AM](https://user-images.githubusercontent.com/44907256/104882367-fba30800-5930-11eb-90c5-e25706781f9a.png)
 - The stats used for this model associated with each team
 
