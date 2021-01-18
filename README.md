@@ -28,3 +28,8 @@ As someone who enjoys betting on sports in my spare time, I decided to create a 
   1. Copy paste each team's SRS, DVOA, Differential, ATS%, CS%, and Y/A in two seperate rows.
   2. Then, set a formula in column k that equals (where the italicized portions are the coffefficients on the left hand side)
        = *Intercept* + (*hSRS* * ```home team SRS```) + (*hDVOA* * ```home team DVOA```) + (*hATS%* * ```home team ATS%```)+ (*hCG%* * ```home team CG%```) + (*hY/A* * ```home team Y/A```) + (*aSRS* * ```away team SRS```) + (*aDVOA* * ```away team DVOA```) + (*aATS%* * ```away team ATS%```)+ (*aCG%* * ```away team CG%```) + (*aY/A*) * ```away team Y/A```)
+
+### Screenshots in Action
+![Screen Shot 2021-01-18 at 1 54 21 AM](https://user-images.githubusercontent.com/44907256/104882159-90593600-5930-11eb-988a-22c3bc2f516b.png)
+- Overview of the Linear Regression Model
+
