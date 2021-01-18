@@ -19,3 +19,6 @@ As someone who enjoys betting on sports in my spare time, I decided to create a 
 - Back-end testing still in progress
 - Continuing to update model
 - Looking to add additional key metrics/statistics
+
+### How to use?
+The model is based off of how many teams the home team should yield to the away team for the game to be fair. In the **Bet Tracker** tab under the **Model Prediction** column, there are three examples of the home team being yielded that number of points. For example, in the first game, the Chiefs should be *getting* approximately 0.36 points at home for it to be a fair game against the Bills. In the second game, the Packers should get 2.52 points against the Bucs, and in the third game the Chiefs should be *giving away* 18.34 points, meaning that a 50/50 bet on the Chiefs should mean that they win the game against the Jets by 18.34 points or more.
